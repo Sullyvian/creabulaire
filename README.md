@@ -1,4 +1,4 @@
-# Creabulaire
+# Créabulaire
 
 Ce projet contient des scripts Python pour générer des mots semblables à des mots français.
 
