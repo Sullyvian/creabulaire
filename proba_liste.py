@@ -1,4 +1,4 @@
-# Extraction, traitement et stockage des données
+# Fonctions utiles à l'extraction et au traitement des données
 
 
 with open('gutenberg.txt', 'r', encoding='utf-8') as f:
