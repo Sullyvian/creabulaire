@@ -23,7 +23,7 @@ Il est possible que les mots générés existent déjà en français.
   
 - `dep` (entier, 0 < dep < 5) : Nombre de lettres utilisées pour générer la lettre suivante. Ce paramètre est OPTIONNEL. Par défaut, sa valeur est 4.
 
-## Exemple
+## Exemples
 
 ### Exemple 1
 
